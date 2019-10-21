@@ -1,0 +1,12 @@
+{
+    "name": "Node_RED_Dashboard_indicators",
+    "description": "Esempi di uso delle icone come indicatori sulla dashboard",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
